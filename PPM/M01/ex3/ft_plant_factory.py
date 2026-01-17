@@ -30,3 +30,8 @@ if __name__ == "__main__":
     plant3 = plant_factory("Daisy", 15, 10)
     plant3.print_info()
     print("===")
+    plant4 = plant_factory("Tulip", 10, 5)
+    plant4.print_info()
+    print("===")
+    plant5 = plant_factory("Orchid", 5, 2)
+    plant5.print_info()
